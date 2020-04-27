@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sklep Allegro</string>
+    <string name="menu_products">Produkty</string>
+    <string name="allegro_shop">Sklep Allegro</string>
+    <string name="price">cena:</string>
+    <string name="product_price" translatable="false">cena: %1$s %2$s</string>
+</resources>
